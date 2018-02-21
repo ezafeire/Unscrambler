@@ -18,3 +18,7 @@ Q/A:
 4. Why autohotkey?
 
    Wanted to experiment with it.
+
+Known issues:
+   1) It cannot differentiate between anagrams (i.e brake, break, baker etc).
+   2) It requires internet connection. Slightly intentional since I wanted it to be lightweight.
