@@ -4,8 +4,7 @@ Efstratios Zafeirelis' Autohotkey Unscrambler
 Q/A:
 1. Why did you make this?
 
-   I was playing this game that for some reason required you to unscramble a word in order to pass their anti-AFK system. 
-   Needless to say, I wasn't going to spend ten minutes unscrambling a word every hour or so. It was an interesting challenge too.
+   I thought it'd make decent practice for autohotkey/
 2. How do I run it?
 
    First and foremost, you need to have autohotkey installed (https://autohotkey.com/). 
